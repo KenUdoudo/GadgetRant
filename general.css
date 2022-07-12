@@ -58,14 +58,26 @@ h2 {
   h2 {
     font-size: 2.3em;
   }
+  table {
+    left: 0;
+    width: 100%;
+  }
 }
 @media screen and (max-width: 375px) {
   h2 {
     font-size: 2em;
   }
+  table {
+    left: 0;
+    width: 100%;
+  }
 }
 @media screen and (max-width: 320px) {
   h2 {
     font-size: 1.8em;
+  }
+  table {
+    left: 0;
+    width: 100%;
   }
 }
